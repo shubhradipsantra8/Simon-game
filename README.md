@@ -9,7 +9,6 @@ Each correct attempt moves the player to the next level, while any mistake ends 
 ## 🚀 Features
 
 - 🎨 Interactive and colorful UI  
-- 🔊 Built-in sound effects  
 - 🧠 Random sequence generation  
 - ⚡ Smooth animations  
 - 📈 Difficulty increases with each level  
